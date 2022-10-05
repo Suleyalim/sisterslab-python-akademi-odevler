@@ -17,4 +17,4 @@ def tahmin(number):
         user_number = int(input("Lütfen yeni bir tahminde bulununuz! "))
     else:
         print("Tebrikler, doğru tahmin! ")
-tahmin(randint(1, 200))
+tahmin(randint(1, 200)) 
