@@ -6,7 +6,6 @@ SistersLab’in Toplum Gönüllüleri Vakfı tarafından desteklenen Women in Te
 
 * In this project, you can see the triangles drawing with stars in various shapes.
 
-![image](https://user-images.githubusercontent.com/66830557/197360890-ad587c5c-a9fb-454c-8cd1-fac86b74e35f.png)
 
 
 2-Guess Number
@@ -36,3 +35,30 @@ Rules;
 
 ![image](https://user-images.githubusercontent.com/66830557/197361030-9736ca16-dfc9-4887-a78f-0a5256baaad7.png)
 
+
+5-Data Structures Homework
+
+* Question 1 - find the numbers that are missing from a list
+
+* Question 2 - find the number that is missing from the list
+
+* Question 3 - sorting algorithm 
+
+* Question 4 - get indexes of target
+
+7-Dosya İşlemleri Hakkında Ödev
+
+Düzensiz ve duplicate veriden oluşan "all_data.txt" dosyası üzerinde yapılacak olan işlemler;
+
+* Bütün text küçük harfe çevrilecek
+* Türkçe karakterler replace edilecek
+  * ş -> s
+  * ı -> i
+  * ö -> o
+  * ğ -> g
+  * ç -> c
+  * ü -> u
+* Noktalama işaretleri kaldırılacak
+* Bir satır tamamen sayılardan oluşuyorsa satırı yeni dosyaya ekleme
+* Her satırda bir cümle olacak şekilde satırları düzenleyin
+* duplicate veri barındırmayacak
