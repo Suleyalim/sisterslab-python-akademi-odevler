@@ -46,6 +46,7 @@ Rules;
 
 * Question 4 - get indexes of target
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 7-Dosya İşlemleri Hakkında Ödev
 
@@ -63,5 +64,7 @@ Düzensiz ve duplicate veriden oluşan "all_data.txt" dosyası üzerinde yapıla
 * Bir satır tamamen sayılardan oluşuyorsa satırı yeni dosyaya ekleme
 * Her satırda bir cümle olacak şekilde satırları düzenleyin
 * duplicate veri barındırmayacak
+=======
+>>>>>>> 861847d5b838dc2cf721cd186f386a713abcb9f0
 =======
 >>>>>>> 861847d5b838dc2cf721cd186f386a713abcb9f0
